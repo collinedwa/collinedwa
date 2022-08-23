@@ -8,7 +8,7 @@ http://www.linkedin.com/in/collinrileyedwards - http://www.github.com/collinedwa
 Motivated, self-directed worker with relevant programming experience. Excellent communicative and interpersonal abilities; very familiar with working in a structured team environment. Passionate about tech and excited to get involved in the industry.
 
 ## SKILLS
-***Python*** (NumPy, Pandas, Matplotlib) | ***SQL*** (PostgreSQL) | ***Linux*** (Fundamentals, BASH Scripting) | ***Docker*** (Building and deploying)
+***Python*** (NumPy, Pandas, Matplotlib) | ***SQL*** (PostgreSQL) | ***Linux*** (Fundamentals, BASH Scripting) | ***Docker*** (Building and deploying) | ***Cloud Services*** (Azure, AWS, Google Cloud)
 
 ## PROJECTS
 #### Paper Trading and Market Analysis App | 2022:
