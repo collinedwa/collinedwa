@@ -35,7 +35,7 @@ Python-based web scraping tool that retrieves information from studies listed on
 * Offering customer support and troubleshooting through email
 
 ## EDUCATION
-### NUCAMP
+### NUCAMP CODING BOOTCAMP
 #### Backend, SQL, and DevOps with Python | 2022
 * Backend development fundamentals
 * Data Structures and Algorithms
