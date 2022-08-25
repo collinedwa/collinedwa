@@ -8,7 +8,7 @@ http://www.linkedin.com/in/collinrileyedwards - http://www.github.com/collinedwa
 Motivated, self-directed worker with relevant programming experience. Excellent communicative and interpersonal abilities; very familiar with working in a structured team environment. Passionate about tech and excited to get involved in the industry.
 
 ## SKILLS
-***Python*** (NumPy, Pandas, Matplotlib) | ***SQL*** (PostgreSQL) | ***Linux*** (Fundamentals, BASH Scripting) | ***Docker*** (Building and deploying) | ***Cloud Services*** (Azure, AWS, Google Cloud)
+***Python*** (NumPy, Pandas, Matplotlib, Flask) | ***SQL*** (PostgreSQL) | ***Linux*** (Fundamentals, BASH Scripting) | ***Docker*** (Building and deploying) | ***HTML*** (Fundamentals) | ***Cloud Services*** (Azure, AWS, Google Cloud)
 
 ## PROJECTS
 #### Paper Trading and Market Analysis App | 2022:
@@ -19,7 +19,7 @@ Python-based web scraping tool that retrieves information from studies listed on
 
 ## PROFESSIONAL EXPERIENCE
 ### INNOVATIVE SALON PRODUCTS
-#### *LOMA Lab Shift Lead | January 2019 - November 2021*
+#### LOMA Lab Shift Lead | January 2019 - November 2021
 * Following formulas with exact precision to produce higher-end cosmetics
 * Managing the lab and its production both individually and as part of a team
 * Meeting perpetual, often increasing quotas
