@@ -12,7 +12,7 @@ Motivated, self-directed worker with relevant programming experience. Excellent 
 
 ## PROJECTS
 #### Paper Trading and Market Analysis App | 2022:
-Python-based paper trading web app that utilizes Flask as a web framework; the yfinance module to scrape current and historical stock data; a PostgreSQL database to access and modify user information regarding credentials, holdings, transactions, and balance history; and database migration support using yoyo-migrations. Also provides functions for generating a recommended portfolio based on recent trend analysis as well as visual representations of portfolio growth and individual stock performance over time. Has simple HTML front-end with request forms in addition to standard REST API functions.
+Python-based paper trading web app that utilizes Flask as a web framework; the yfinance module to scrape current and historical stock data; a PostgreSQL database to access and modify user information regarding credentials, holdings, transactions, and balance history; and database migration support using yoyo-migrations. Also provides functions for generating a recommended portfolio based on recent trend analysis as well as visual representations of portfolio growth and individual stock performance over time. Has simple HTML front-end with request forms, in addition to standard REST API functions.
 
 <div align="right">
 http://www.github.com/collinedwa/market-app
