@@ -19,7 +19,7 @@ http://www.github.com/collinedwa/market-app
 </div>
 
 #### Scholarly Literature Search | 2022:
-Python-based web scraping tool that retrieves information from studies listed on PubMed (title, author, abstract, citations, URL) and compiles it into a table which can then be exported as a .csv file. 
+Python-based web scraping tool that retrieves information from studies listed on PubMed (title, author, abstract, citations, URL) and compiles it into a table which can then be exported as a .csv file. Updated with simple HTML front-end.
 
 <div align="right">
 http://www.github.com/collinedwa/scholarly-literature-search
