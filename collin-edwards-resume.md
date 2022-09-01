@@ -11,19 +11,12 @@ Motivated, self-directed worker with relevant programming experience. Excellent 
 ***Python*** (NumPy, Pandas, Matplotlib, Flask) | ***SQL*** (PostgreSQL) | ***Linux*** (Fundamentals, BASH Scripting) | ***Docker*** (Building and deploying) | ***Cloud Technologies*** (Azure, AWS, Google Cloud) | ***HTML*** (Fundamentals)
 
 ## PROJECTS
-#### Paper Trading and Market Analysis App | 2022:
+#### [Paper Trading and Market Analysis App](http://www.github.com/collinedwa/market-app) | 2022:
 Python-based paper trading web app that utilizes Flask as a web framework; the yfinance module to scrape current and historical stock data; a PostgreSQL database to access and modify user information regarding credentials, holdings, transactions, and balance history; and database migration support using yoyo-migrations. Also provides functions for generating a recommended portfolio based on recent trend analysis as well as visual representations of portfolio growth and individual stock performance over time. Has simple HTML front-end with request forms, in addition to standard REST API functions.
 
-<div align="right">
-http://www.github.com/collinedwa/market-app
-</div>
-
-#### Scholarly Literature Search | 2022:
+#### [Scholarly Literature Search](http://www.github.com/collinedwa/scholarly-literature-search) | 2022:
 Python-based web scraping tool that retrieves information from studies listed on PubMed (title, author, abstract, citations, URL) and compiles it into a table which can then be exported as a .csv file. Uses the BS4 module to collect and parse through HTML data.
 
-<div align="right">
-http://www.github.com/collinedwa/scholarly-literature-search
-</div>
 
 ## PROFESSIONAL EXPERIENCE
 ### INNOVATIVE SALON PRODUCTS
