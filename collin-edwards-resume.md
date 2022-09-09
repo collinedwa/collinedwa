@@ -21,19 +21,19 @@ Python-based web scraping tool that retrieves information from studies listed on
 ## WORK EXPERIENCE
 ### INNOVATIVE SALON PRODUCTS
 #### LOMA Lab Shift Lead | January 2019 - November 2021
-* Following formulas with exact precision to produce higher-end cosmetics
-* Managing the lab and its production both individually and as part of a team
-* Meeting perpetual, often increasing quotas
-* Performing various measurements and tests to meet product specifications
-* Formulating changes in products based on ambiguous critique
-* Writing and following various SOPs
+* Followed formulas with exact precision to produce higher-end cosmetics
+* Managed the lab and its production both individually and as part of a team
+* Met perpetual, often increasing quotas
+* Performed various measurements and tests to meet product specifications
+* Formulated changes in products based on ambiguous critique
+* Wrote and followed various SOPs
 
 ### NORTHWEST FLOOD DATA
 #### Map Analyst | December 2017 - December 2018
-* Comparing maps of different regions 
-* Designing art and templates for advertisement use
-* Managing company billing with proprietary software
-* Offering customer support and troubleshooting through email
+* Compared maps of different regions 
+* Designed art and templates for advertisement use
+* Managed company billing with proprietary software
+* Offered customer support and troubleshooting through email
 
 ## EDUCATION
 ### NUCAMP CODING BOOTCAMP
