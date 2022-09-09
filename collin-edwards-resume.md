@@ -18,7 +18,7 @@ Python-based paper trading web app that utilizes Flask as a web framework; the y
 Python-based web scraping tool that retrieves information from studies listed on PubMed (title, author, abstract, citations, URL) and compiles it into a table which can then be exported as a .csv file. Uses the BS4 module to collect and parse through HTML data.
 
 
-## PROFESSIONAL EXPERIENCE
+## WORK EXPERIENCE
 ### INNOVATIVE SALON PRODUCTS
 #### LOMA Lab Shift Lead | January 2019 - November 2021
 * Following formulas with exact precision to produce higher-end cosmetics
