@@ -41,5 +41,5 @@ Python-based web scraping tool that retrieves information from studies listed on
 * Backend development fundamentals
 * Data Structures and Algorithms
 * Relational database management and integration
-* Modern software engineering practices with DevOps
+* Modern software development methodologies
 * Cloud technologies (Azure, AWS, Google Cloud/Firestore)
